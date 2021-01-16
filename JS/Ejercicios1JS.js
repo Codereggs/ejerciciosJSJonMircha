@@ -19,11 +19,11 @@ function recortador(texto, number) {
   );
 }
 
-console.log("Ejercicio 3");
+
 recortador("Hola Mundo", 4);
 
 // 3) Programa una función que dada una String me devuelva un Array de texto separados.
-
+console.log("Ejercicio 3");
 function recorteArray(texto) {
   console.log(
     `La siguiente cadena de texto: ${texto} se divide en el siguiente array `
